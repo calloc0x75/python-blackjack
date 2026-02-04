@@ -1,4 +1,4 @@
-# 0x75s BlackJack
+# callocs BlackJack
 
 A terminal-based Blackjack game written in Python.  
 Implements standard Blackjack rules with proper Ace handling and dealer AI logic.
